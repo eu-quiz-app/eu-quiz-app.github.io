@@ -1,6 +1,6 @@
 # EU Quiz App website files
 
-This folder is ready to upload to the GitHub repository for `eu-quiz.github.io`.
+This folder is ready to upload to the GitHub repository for `eu-quiz-app.github.io`.
 
 ## Files
 - `index.html` — homepage / marketing URL
@@ -17,7 +17,7 @@ This folder is ready to upload to the GitHub repository for `eu-quiz.github.io`.
 4. Commit the files to the root of the GitHub Pages repository.
 
 ## Suggested App Store Connect URLs
-- Marketing URL: `https://eu-quiz.github.io/`
-- Support URL: `https://eu-quiz.github.io/support.html`
-- Privacy Policy URL: `https://eu-quiz.github.io/privacy.html`
-- Labels and Markings URL: `https://eu-quiz.github.io/eu-labels.html`
+- Marketing URL: `https://eu-quiz-app.github.io/`
+- Support URL: `https://eu-quiz-app.github.io/support.html`
+- Privacy Policy URL: `https://eu-quiz-app.github.io/privacy.html`
+- Labels and Markings URL: `https://eu-quiz-app.github.io/eu-labels.html`
